@@ -1,1 +1,20 @@
+# Ambiente Virtual
+# Ignora a pasta venv (nome comum para ambientes virtuais)
 venv/
+
+# Arquivos de Banco de Dados
+# Ignora arquivos de banco de dados SQLite (comum em projetos Python)
+*.sqlite3
+
+# Arquivos de Configurações
+# Ignora qualquer arquivo de configurações que não seja o de exemplo
+# Assume que o arquivo de configurações real se chamaria 'settings.py'
+# e que a versão de exemplo se chamaria 'settings_exemplo.py'
+settings.py
+
+# Se o seu arquivo de exemplo estiver na verdade **dentro** do repositório,
+# mas o arquivo real não, o código acima é suficiente.
+# Se o nome do seu arquivo de exemplo for settings_exemplo.py e você quiser ignorá-lo
+# e também o arquivo real (settings.py) que é geralmente gerado a partir dele, use:
+# settings.py
+# settings_exemplo.py
