@@ -74,9 +74,9 @@ python manage.py runserver
 
 Você pode acessar o painel administrativo em:
 
-```
+
 [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
-```
+
 
 No projeto, também foi implementado um **botão de acesso direto ao painel admin** na interface web. Esse botão redireciona o superusuário para o painel administrativo com apenas um clique.
 
