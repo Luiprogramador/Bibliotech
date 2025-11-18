@@ -1,6 +1,6 @@
 # Projeto Django - Biblioteca de Livros
 
-Este projeto é um sistema de **biblioteca de livros** desenvolvido em Django. O objetivo é gerenciar livros, autores e usuários de forma simples e interativa, tornando o site mais dinâmico e facilitando a navegação entre as funcionalidades.
+Este projeto é um sistema de **biblioteca de livros** desenvolvido em Django. O objetivo é gerenciar livros, autores e editoras de forma simples e interativa, tornando o site mais dinâmico e facilitando a navegação entre as funcionalidades.
 
 ---
 
